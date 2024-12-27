@@ -74,7 +74,7 @@ def main():
     setup_database()
 
     # Ваш API токен, полученный от BotFather
-    TOKEN = "7729030030:AAGeZmc_esnqYGXxzCwab-ZfHAJA7xIgXMc"
+    TOKEN = "Your api key tg"
 
     # Создаем объект приложения с использованием токена
     app = ApplicationBuilder().token(TOKEN).build()
